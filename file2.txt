@@ -1,2 +1,3 @@
 "commit changes: change a"
 "commit changes: change b"
+"commit changes: change c"
